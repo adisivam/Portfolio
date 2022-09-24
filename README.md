@@ -1,5 +1,7 @@
 ## Kesav Adithya Venkidusamy's Portfolio
 
+### Projects
+
 <b>1.	Project 1: Placeholder</b><br>
 TBD
 
@@ -7,7 +9,7 @@ TBD
 TBD
 
 <b>3.	HR Analytics and Employee Attrition Prediction</b><br>
-[Link] Employee attrition measures how many workers have left an organization and is common metric companies use to assess their performance. There are often many reasons why employees leave an organization, and in this case study, I explored some of the key drivers of employee attrition.
+[Link](https://github.com/adisivam/Portfolio/blob/main/Project 3/Employee_Attrition_Prediction_Project_White_Paper_KesavAdithya_Venkidusamy.pdf) Employee attrition measures how many workers have left an organization and is common metric companies use to assess their performance. There are often many reasons why employees leave an organization, and in this case study, I explored some of the key drivers of employee attrition.
   
 <b>4.	Census Income Prediction</b><br>
 [Link] Income prediction is important for a variety of areas in the private and nonprofit sectors. One critical area this affects is marketing, where income segmentation of the population is an extremely important tool. In this project, I explored the features impacting the income of a household.
