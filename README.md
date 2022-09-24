@@ -1,10 +1,10 @@
 ## Portfolio
 #### Kesav Adithya Venkidusamy
 
-1.	Project 1: Placeholder<br>
+<b>1.	Project 1: Placeholder</b><br>
 TBD
 
-2.	Project 2: Placeholder<br>
+  <b>2.	Project 2: Placeholder</b><br>
 TBD
 
 <b>3.	HR Analytics and Employee Attrition Prediction</b><br>
