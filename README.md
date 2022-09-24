@@ -5,11 +5,11 @@
 <b>1.	Project 1: Placeholder</b><br>
 TBD
 
-  <b>2.	Project 2: Placeholder</b><br>
+<b>2.	Project 2: Placeholder</b><br>
 TBD
 
 <b>3.	HR Analytics and Employee Attrition Prediction</b><br>
-[Project Link]('https://github.com/adisivam/Portfolio/blob/main/Project 3/Employee_Attrition_Prediction_Project_White_Paper_KesavAdithya_Venkidusamy.pdf')<br>
+[Project Link](Project 3/Employee_Attrition_Prediction_Project_White_Paper_KesavAdithya_Venkidusamy.pdf)<br>
 Employee attrition measures how many workers have left an organization and is common metric companies use to assess their performance. There are often many reasons why employees leave an organization, and in this case study, I explored some of the key drivers of employee attrition.
   
 <b>4.	Census Income Prediction</b><br>
