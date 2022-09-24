@@ -1,5 +1,5 @@
 ## Portfolio
-- Kesav Adithya Venkidusamy
+#### Kesav Adithya Venkidusamy
 
 1.	Project 1: Placeholder
 TBD
