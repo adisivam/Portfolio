@@ -1,13 +1,14 @@
 ## Portfolio
-Kesav Adithya Venkidusamy Portfolio
+- Kesav Adithya Venkidusamy
 
 1.	Project 1: Placeholder
 TBD
 2.	Project 2: Placeholder
 TBD
-3.	HR Analytics and Employee Attrition Prediction
+3.	<b>HR Analytics and Employee Attrition Prediction<b>
 [Link] Employee attrition measures how many workers have left an organization and is common metric companies use to assess their performance. There are often many reasons why employees leave an organization, and in this case study, I explored some of the key drivers of employee attrition.
-4.	Census Income Prediction
+  
+4.	<b>Census Income Prediction<b>
 [Link] Income prediction is important for a variety of areas in the private and nonprofit sectors. One critical area this affects is marketing, where income segmentation of the population is an extremely important tool. In this project, I explored the features impacting the income of a household.
 5.	Austin House Prediction
 [Link] During covid-19 pandemic, the housing market has increased exponentially across the USA. Texas is one of the states which saw house prices skyrocket. Among various cities in Texas, I have chosen the house sale data available in and around Austin for this analysis. In this project, I explored the factors that contribute to increases in home prices. 
