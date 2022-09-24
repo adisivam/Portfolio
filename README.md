@@ -1,10 +1,12 @@
 ## Portfolio
 #### Kesav Adithya Venkidusamy
 
-1.	Project 1: Placeholder
+1.	Project 1: Placeholder<br>
 TBD
-2.	Project 2: Placeholder
+
+2.	Project 2: Placeholder<br>
 TBD
+
 <b>3.	HR Analytics and Employee Attrition Prediction</b><br>
 [Link] Employee attrition measures how many workers have left an organization and is common metric companies use to assess their performance. There are often many reasons why employees leave an organization, and in this case study, I explored some of the key drivers of employee attrition.
   
@@ -19,9 +21,12 @@ TBD
 
 <b>7.	Weather App</b><br>
 [Link] Developed a weather application using python code. This application takes the city name or zip code as input and provides the temperature as output.
+
 <b>8.	Cryptocurrency Analysis</b><br>
 [Link] A cryptocurrency is a tradable digital asset or digital form of money, built on blockchain technology that only exists online. In this project, I have analyzed various cryptocurrencies for investment feasibility.
+
 <b>9.	Covid Analysis using R</b><br>
 [Link] Coronavirus disease or COVID-19 is a global pandemic infectious disease caused by a virus called sars-Nov-2. The problem that I addressed in this project is Covid-19 impact on age and people with underlying conditions. I analyzed if the deaths caused by the Covid-19 virus are high for older people with having age greater than 55 compared to the young people whose age is less than 55. R is used for the analysis.
+
 <b>10.	 Covid Analysis using Python</b><br>
 [Link] Coronavirus disease or COVID-19 is a global pandemic infectious disease caused by a virus called sars-Nov-2. The problem that I addressed in this project is Covid-19 impact on age and people with underlying conditions. I analyzed if the deaths caused by the Covid-19 virus are high for older people with having age greater than 55 compared to the young people whose age is less than 55. The analysis is done using Python.
