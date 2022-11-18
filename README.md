@@ -37,3 +37,7 @@ Coronavirus disease or COVID-19 is a global pandemic infectious disease caused b
 <b>9. Covid Analysis using Python</b><br>
 [Project Link](https://github.com/adisivam/Portfolio/blob/main/Project_10/Covid_19_Impact_Analysis_Project_KesavAdithya_Venkidusamy.pdf)<br>
 Coronavirus disease or COVID-19 is a global pandemic infectious disease caused by a virus called sars-Nov-2. The problem that I addressed in this project is Covid-19 impact on age and people with underlying conditions. I analyzed if the deaths caused by the Covid-19 virus are high for older people with having age greater than 55 compared to the young people whose age is less than 55. The analysis is done using Python.
+
+<b>10. Movie Recommendation Application using Python</b><br>
+[Project Link](https://github.com/adisivam/Portfolio/blob/main/Project_2/Movie_Recommender_Project_KesavAdithya_Venkidusamy.pdf)<br>
+Developed a movie recommendation application using python code. This application allows users to input a movie they like (in the data set) and recommends ten other movies for them to watch. Recommendation engines are a subclass of machine learning which generally deal with ranking or rating products / users. Loosely defined,a recommender system is a system which predicts ratings a user might give to a specific item. These predictions will then be ranked and returned back to the user
